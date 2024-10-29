@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ALSAAD NASR CITY\\OneDrive\\Desktop\\project testing tarek\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|C:\\Users\\ALSAAD NASR CITY\\OneDrive\\Desktop\\project testing tarek\\Test\\Tests.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|solutionrelative:Test\\Tests.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|C:\\Users\\ALSAAD NASR CITY\\OneDrive\\Desktop\\project testing tarek\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D131888A-60BB-4449-B19C-57D1972B0141}|Final_Project.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Users\\ALSAAD NASR CITY\\OneDrive\\Desktop\\project testing tarek\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Users\\ALSAAD NASR CITY\\OneDrive\\Desktop\\project testing tarek\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-09T19:22:07.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.c",
+              "DocumentMoniker": "C:\\Users\\ALSAAD NASR CITY\\OneDrive\\Desktop\\project testing tarek\\Test\\Tests.c",
+              "RelativeDocumentMoniker": "Test\\Tests.c",
+              "ToolTip": "C:\\Users\\ALSAAD NASR CITY\\OneDrive\\Desktop\\project testing tarek\\Test\\Tests.c",
+              "RelativeToolTip": "Test\\Tests.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-09T19:19:14.268Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
